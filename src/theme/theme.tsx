@@ -22,6 +22,7 @@ export const styles = StyleSheet.create({
     fontSize: 60,
     color: '#ede89d',
     textAlign: 'right',
+    marginBottom: 10
   },
   totalS: {
     fontSize: 30,
@@ -29,7 +30,7 @@ export const styles = StyleSheet.create({
     textAlign: 'right',
   },
   button: {
-    backgroundColor: '#19b5a5',
+    backgroundColor: '#b2d5ba',
     // alignItems: 'flex-start',
     borderRadius: 100,
     height: 80,
